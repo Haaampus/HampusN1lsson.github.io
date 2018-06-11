@@ -4,10 +4,10 @@
 	<meta charset="UTF-8">
 	<meta property="og:site_name" content="L9 Boosting">
 	<meta property="og:title" content="Welcome">
-	<meta property="og:url" content="https://hampusn1lsson.github.io/l9xd/">
+	<meta property="og:url" content="http://www.l9eloboosting.com/">
 	<meta property="og:type" content="website">
 	<meta itemprop="name" content="Welcome">
-	<meta itemprop="url" content="https://hampusn1lsson.github.io/l9xd/">
+	<meta itemprop="url" content="http://www.l9eloboosting.com/">
 	<meta name="description" content="L9 Elo Boosting / Coaching , League of Legends' Best Service Provider , 
 	High Quality services working with Professional and Famous Streamers and 
 	players that are in the Top Challenger Ladder. Order with us today!">
